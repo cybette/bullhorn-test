@@ -32,13 +32,13 @@ Welcome to the Bullhorn, our newsletter for the Ansible developer community. If 
 > 
 > https://docs.ansible.com/ansible/devel/collections/community/crypto/acme_account_module.html#parameters
 > 
-> ![](assets/img/bullhorn38_img1.png)
+> ![](../assets/img/bullhorn38_img1.png)
 > 
 > After example:
 > 
 > https://ansible.fontein.de/collections/community/crypto/acme_account_module.html#parameters
 > 
-> ![](assets/img/bullhorn38_img2.png)
+> ![](../assets/img/bullhorn38_img2.png)
 > 
 > (More examples in the [pull request](https://github.com/ansible-community/antsibull/pull/335).)
 
@@ -145,7 +145,7 @@ Tooling for building various things related to ansible
 > 
 > I got the chance to join [Thib](https://matrix.to/#/@thib:ergaster.org) from Element on the latest episode of Matrix Live! We spent a very pleasant time discussing how running events on Matrix felt, what the architecture was, where we think it did well, and how to improve it in the future. You can watch it [on YouTube](https://www.youtube.com/watch?v=3dqrqMglXNY) or on the [This Week in Matrix blog](https://matrix.org/blog/2021/11/12/this-week-in-matrix-2021-11-12/).
 > 
-> ![](assets/img/bullhorn38_img3.png)
+> ![](../assets/img/bullhorn38_img3.png)
 
 [cybette](https://matrix.to/#/@cybette:ansible.im) said
 
