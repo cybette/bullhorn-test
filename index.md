@@ -1,3 +1,5 @@
+![](assets/img/bullhorn-banner-teal.png)
+
 # The Bullhorn
 
 The Bullhorn is our newsletter for the Ansible developer community. If you have any questions or content you’d like to share, please reach out to us at the-bullhorn@redhat.com, or visit [#social:ansible.com](https://matrix.to/#/#social:ansible.com) (the Ansible Social room on Matrix) and leave a message, tagging [newsbot](https://matrix.to/#/@newsbot:ansible.im).
