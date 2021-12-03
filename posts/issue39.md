@@ -1,4 +1,4 @@
-![](assets/img/bullhorn-banner-mango.png)
+![](../assets/img/bullhorn-banner-mango.png)
 
 # The Bullhorn #39
 

@@ -1,4 +1,4 @@
-![](assets/img/bullhorn-banner-teal.png)
+![](../assets/img/bullhorn-banner-teal.png)
 
 # The Bullhorn #38
 
